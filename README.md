@@ -1,16 +1,17 @@
-# Dijkstra Search Algorithm: Tintin and criminals
+# Play Sudoko Using AC3, MRV, LRV, Back Tracking, Forward Checking (CSP Concepts)
 
 ## Summary:
-In this Code, we Implemented CSP Concepts to play sudoku.
+In this code, we Implemented CSP concepts to play sudoku.
+
 ### Algorithms 
-1. BackTracking
+1. Back Tracking
 2. AC3
 3. MRV
 4. LCV
 5. Forward checking
 
 ## Limitation
-Run time mus be < 150ms .
+Run time must be < 150ms .
 
 ## Example
 1. 
